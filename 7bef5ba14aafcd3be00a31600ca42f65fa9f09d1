@@ -1,0 +1,1 @@
+{"jobID":"31c627a2-9c67-a648-3b76-94390cd3ddc8","spec":{"type":"policy","cause":{"Message":"","User":"Harvinder Kalsi \u003chkalsi@cisco.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
